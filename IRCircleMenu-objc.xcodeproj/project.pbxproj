@@ -14,6 +14,7 @@
 		B5D7113D29240D35002670FA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5D7113C29240D35002670FA /* Assets.xcassets */; };
 		B5D7114029240D35002670FA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5D7113E29240D35002670FA /* LaunchScreen.storyboard */; };
 		B5D7114329240D35002670FA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B5D7114229240D35002670FA /* main.m */; };
+		B5D7114B29240D96002670FA /* CircleButton.m in Sources */ = {isa = PBXBuildFile; fileRef = B5D7114A29240D96002670FA /* CircleButton.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		B5D7113F29240D35002670FA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B5D7114129240D35002670FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B5D7114229240D35002670FA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		B5D7114929240D96002670FA /* CircleButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CircleButton.h; sourceTree = "<group>"; };
+		B5D7114A29240D96002670FA /* CircleButton.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CircleButton.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				B5D7113429240D34002670FA /* SceneDelegate.m */,
 				B5D7113629240D34002670FA /* ViewController.h */,
 				B5D7113729240D34002670FA /* ViewController.m */,
+				B5D7114929240D96002670FA /* CircleButton.h */,
+				B5D7114A29240D96002670FA /* CircleButton.m */,
 				B5D7113929240D34002670FA /* Main.storyboard */,
 				B5D7113C29240D35002670FA /* Assets.xcassets */,
 				B5D7113E29240D35002670FA /* LaunchScreen.storyboard */,
@@ -149,6 +154,7 @@
 				B5D7113829240D34002670FA /* ViewController.m in Sources */,
 				B5D7113229240D34002670FA /* AppDelegate.m in Sources */,
 				B5D7114329240D35002670FA /* main.m in Sources */,
+				B5D7114B29240D96002670FA /* CircleButton.m in Sources */,
 				B5D7113529240D34002670FA /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
